@@ -9,7 +9,7 @@ Desenvolvedor full stack especialista em criar soluções práticas e personaliz
 ## 🌱 Mollitiam Development
 
 Desenvolvimento sob demanda com base em necessidade, planejamento e arquitetura.  
-👉 [Acesse o portfólio Mollitiam](https://mollitiamdevelopment.great-site.net) 
+👉 [Acesse o site da Mollitiam](https://mollitiamdevelopment.great-site.net) 
 ---
 
 ## 🚀 Principais Tecnologias
