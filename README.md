@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Cauê Piccini
 
-Desenvolvedor full stack apaixonado por criar soluções práticas e personalizadas — de ERPs robustos a apps mobile e sistemas web modernos.
+Desenvolvedor full stack especialista em criar soluções práticas e personalizadas — de apps mobile e sistemas web modernos a ERPs robustos.
 
 > 🧠 Transformo ideias em sistemas funcionais com lógica, performance e visual caprichado.
 
