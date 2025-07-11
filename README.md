@@ -62,4 +62,13 @@ Desenvolvimento sob demanda com base em necessidade, planejamento e arquitetura.
 <a href="mailto:cauepiccini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/cau%C3%AA-piccini-ba31b2186/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://mollitiamdevelopment.great-site.net"><img src="https://img.shields.io/badge/-Portfólio-%230077B5?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+
+---
+
+## 📈 Atividade recente
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
