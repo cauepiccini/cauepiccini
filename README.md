@@ -2,7 +2,7 @@
 
 Desenvolvedor full stack especialista em criar soluções práticas e personalizadas — de apps mobile e sistemas web modernos a ERPs robustos.
 
-> 🧠 Transformo ideias em sistemas funcionais com lógica, performance e visual caprichado.
+> 🧠 Transformo ideias em sistemas funcionais e intuitivos com lógica, performance e o melhor visual.
 
 ---
 
