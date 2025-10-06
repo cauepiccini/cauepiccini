@@ -51,6 +51,7 @@ Desenvolvimento sob demanda com base em necessidade, planejamento e arquitetura.
 
 | Projeto | Descrição | Link |
 |---------|-----------|------|
+| **Mollitiam** | Site Institucional da MOLLITIAM | [Ver no GitHub](https://github.com/cauepiccini/MollitiamInstitucional) | 
 | **Mais Barato** | App para comparação de preços, disponível na [App Store](https://apps.apple.com/br/app/mais-barato/id6746170601?l=en-GB) | [Ver no GitHub](https://github.com/cauepiccini/MaisBarato) |
 | **Menu Musical** | Plataforma interativa para pedidos de música em eventos | [Ver no GitHub](https://github.com/cauepiccini/MenuMusical) |
 | **ERP Modelo** | Template base para sistemas de gestão empresarial | [Ver no GitHub](https://github.com/cauepiccini/ERP-Planejamento-de-Recursos-Empresariais) | 
