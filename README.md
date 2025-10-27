@@ -35,6 +35,7 @@ Desenvolvimento sob demanda com base em necessidade, planejamento e arquitetura.
 
 ---
 
+<!--
 ## 🔥 Destaques do GitHub
 
 <div align="center">
@@ -44,7 +45,7 @@ Desenvolvimento sob demanda com base em necessidade, planejamento e arquitetura.
   </a>
 </div>
 
----
+--- -->
 
 ## 📂 Projetos em destaque
 
